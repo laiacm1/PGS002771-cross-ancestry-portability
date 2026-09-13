@@ -25,7 +25,7 @@ The repository reproduces the final variant-level analyses reported in the manus
 
 ## Analysis notebook
 
-`PGS002771_cross_ancestry_portability.ipynb`
+`PGS002771_cross_ancestry_portability (5).ipynb`
 
 The notebook contains the final analysis and figure-generation code.
 
