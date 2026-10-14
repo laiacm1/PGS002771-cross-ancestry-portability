@@ -1,0 +1,5 @@
+PGS,N,numerical_metric,disease_metric,Spearman_rho,p_value
+PGS002771,5620,abs_score_shift_SAS_EUR,abs_z_diff_SAS_EUR,0.021541183436387185,0.10637596251221909
+PGS000036,162148,abs_numerical_distortion,abs_z_diff_SAS_EUR,0.034570386165003575,4.48288399949821e-44
+PGS002426,2365,abs_delta_SAS_minus_EUR,abs_z_diff_SAS_EUR,0.12173236111126799,2.8682227314797477e-09
+PGS002475,8838,abs_numerical_displacement_EUR_SAS,abs_effect_heterogeneity_z,0.07991289019319948,5.327462167030448e-14
