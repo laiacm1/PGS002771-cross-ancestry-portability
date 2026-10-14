@@ -1,0 +1,2 @@
+disease,PRS,comparison,n_snps,primary_rho,primary_p,block_bootstrap_mean_rho,block_bootstrap_CI_low,block_bootstrap_CI_high,LOCO_rho_min,LOCO_rho_max,raw_beta_rho,raw_beta_p,EUR_GWAS,SAS_GWAS
+CAD,PGS004198,EUR_vs_SAS,5165,-0.0071348885,0.608194693,-0.0077136638,-0.0358251891,0.0201742926,-0.017911886,0.0014932821,-0.1143478474,1.6794045004763085e-16,Aragam 2022 CARDIoGRAMplusC4D,Genes & Health GNH0002 narrow CAD
